@@ -8,7 +8,7 @@ import pyautogui as py
 
 ROOT = tk.Tk()
 
-CANVAS_URL = 'ENTER YOUR CANVAS URL HERE'
+CANVAS_URL = 'YOUR CANVAS URL HERE'
 
 ACCEPT = (1730, 180)
 CHECK = (1100, 100, 400, 400)
